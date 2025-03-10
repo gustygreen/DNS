@@ -13,12 +13,26 @@ In this lab, we will explore and experiment with the Domain Name System (DNS) to
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (22H2)
+- Windows 10 Pro (22H2)-Client 1
+- Windows Server- DC-1(Domain Controller)
 
-<h2>List of Prerequisites</h2>
+<h2>Environments and Technologies Used</h2>
 
-- A Virtual Machine with Active Directory
-- A Client VM joined to your Network
+- Microsoft Azure (Virtual Machines/Compute)
+- Virtual Network inside Azure Resource Group
+- Powershell
+
+<h2>Actions and Observations</h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/70f2f67d-7876-4788-9802-a6119c9efd16" height="80%" width="80%"/>
+</p>
+
+<p>
+Create a Resource Group, as seen [here](https://github.com/gustygreen/Azure). Create and add a Virtual Network. Create and add the Domain Controller. Create and add the Client.<br />
+<p>
+
+  
 <h2>Lab Steps</h2>
 <p>
 <img src="https://i.imgur.com/2Wl0nRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
