@@ -29,7 +29,7 @@ In this lab, we will explore and experiment with the Domain Name System (DNS) to
 </p>
 
 <p>
-Create a Resource Group, as seen in the [Creating Virtual Machines within Azure](https://github.com/gustygreen/Azure). Create and add a Virtual Network. Create and add the Domain Controller. Create and add the Client.<br />
+Create a Resource Group, as seen in the lab [Creating Virtual Machines within Azure](https://github.com/gustygreen/Azure). Create and add a Virtual Network. Create and add the Domain Controller. Create and add the Client.<br />
 <p>
 
   
